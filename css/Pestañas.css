@@ -4,6 +4,13 @@ body{
     background-attachment: contain;
     background-size: cover;
     font-family: 'Josefin Sans', sans-serif;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main{
+    flex: 1 0 auto;
 }
 
 .padre{
