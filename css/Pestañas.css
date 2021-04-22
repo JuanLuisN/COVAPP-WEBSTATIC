@@ -61,6 +61,34 @@ nav{
     text-align: center;
 }
 
+.text-justify{
+    text-align: justify;
+}
+
+.text-grande{
+    font-size: 20px;
+}
+
+.text-mediana{
+    font-size: 17px;
+}
+
+.margin{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.fondo-titulo{
+    background: rgba(0, 0, 0, 0.1);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.negritas{
+    font-weight: 600;
+}
+
 .pestaña{
     display: flex;
     flex-flow: row nowrap;
@@ -93,6 +121,11 @@ nav{
     margin: 0%;
     width: 100%;
     padding: 20px 0px;
+}
+
+.padding{
+    padding-top: 10px;
+    padding-bottom: 5px;
 }
 
 .border{
